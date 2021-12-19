@@ -3,6 +3,9 @@
 
 **Authors: Victor Fernandez-Jiménez and Hugo Pasqual del Pobil**
 
+ * Victor Fernandez-Jiménez: [GitHub](https://github.com/Delirium640)
+ * Hugo Pasqual del Pobil [GitHub](https://github.com/hugopobil)
+
 Link de los datos: https://www.kaggle.com/tbsteal/canadian-car-accidents-19942014?select=drivingLegend.pdf
 
 **Objetivos del proyecto:**

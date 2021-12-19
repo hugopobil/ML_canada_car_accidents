@@ -1,7 +1,7 @@
 
 ## Canadian Car Accidents Machine Learning Project
 
-**Authors: Victor Fernandez-Jiménez and Hugo Pasqual del Pobil**
+**Authors:**
 
  * Victor Fernandez-Jiménez: [GitHub](https://github.com/Delirium640)
  * Hugo Pasqual del Pobil [GitHub](https://github.com/hugopobil)

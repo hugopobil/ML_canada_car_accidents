@@ -15,7 +15,7 @@ Complementar con datos abiertos de clima (aunque Canadá es muy grande) y de otr
 
 **Datos:**
 
-La base de datos nacional de colisiones de Transport Canada (NCDB) contiene datos sobre todas las colisiones de vehículos motorizados notificables en Canadá que las provincias y territorios proporcionan cada año.\
+La base de datos nacional de colisiones de Transport Canada (NCDB) contiene datos sobre todas las colisiones de vehículos motorizados notificables en Canadá que las provincias y territorios proporcionan cada año.
 
 El año 2014 vio una disminución en el número de muertes, graves lesiones y lesiones totales; de hecho, 2014 marcó los conteos más bajos para los tres grupos de víctimas ya que estos datos fueron recopilada por Transport Canada a principios de la década de 1970.
 - En 2014, el número de víctimas mortales de vehículos de motor fue de 1.834; 6,0% menos que en 2013 (1.951).
